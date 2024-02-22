@@ -1,0 +1,3 @@
+Hàm đệ quy gồm 2 phần:
+- Điều kiện thoát khỏi đệ quy
+- Các bước xử lý  (thân hàm) có chứa lời gọi đệ quy.

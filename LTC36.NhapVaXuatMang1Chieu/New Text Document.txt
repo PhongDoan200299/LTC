@@ -1,0 +1,6 @@
+#Bài 36: Nhập và xuất mảng. Tính tổng các phần tử trong mảng 1 chiều
+
+Nhập vào mảng 1 chiều gồm n phần tử:
+
+	Xuất các giá trị của mảng ra màn hình
+	Tỉnh tổng các phần tử trong mản và xuất kết quả.

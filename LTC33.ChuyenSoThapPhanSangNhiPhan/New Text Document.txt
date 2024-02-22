@@ -1,0 +1,4 @@
+##33
+Bài tập: Lập trình chuyển số thập phân sang số nhị phân
+Bài toán: Nhập vào số n(n>=0), chuyển đổi số n từ hệ số thập phân sang hệ số 
+nhị phân và xuất kết quả ra màn hình

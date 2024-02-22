@@ -1,0 +1,4 @@
+#34 - Bai tập tìm số Fibonnaci
+Bài toán: Nhập vào số n, xuất ra giá trị Fibonnacii F(n)
+
+0 1 1 2 3 5 8 13
