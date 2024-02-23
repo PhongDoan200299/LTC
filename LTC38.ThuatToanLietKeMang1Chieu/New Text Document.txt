@@ -1,0 +1,2 @@
+#38 Bài toán liệt kê các phần tử thỏa điều kiện trong mảng một chiều
+

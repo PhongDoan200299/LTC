@@ -1,0 +1,11 @@
+#37
+Mảng có thể được truyền như tham số trong hàm
+
+Các tham số chính thức là một con trỏ như sau:
+Return_type function(type *arrayname)
+
+Các tham số chính thức là một mảng đã định kích cỡ như sau:
+return_type function(type arrayname[size])
+
+Các tham số chính thức là một mảng chưa định kích cỡ như sau:
+return_type function(type arrayname[])
